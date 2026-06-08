@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi! 👋 I'm Luca Robustelli
 
-<!--
-**LucaRobus99/LucaRobus99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineering Master's Student & Software Engineer
 
-Here are some ideas to get you started:
+Passionate about full-stack web development and low-level systems. I combine an analytical approach with hands-on experience to build robust, scalable, and secure production-ready applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **[Check out my Interactive Portfolio](https://LucaRobus99.github.io/Portfolio/)**
+
+---
+
+### 🛠️ Core Tech Stack
+- **Languages:** JavaScript, Rust, Python, C, C++, Java, PHP
+- **Web & Frameworks:** React, Node.js, FastAPI, Bootstrap
+- **Databases & Tools:** Linux, Git, SQL, MySQL, PostgreSQL, MongoDB
+
+### 📫 How to reach me
+- 📧 Email: luca.robustelli.businessjob@gmail.com
+- 📍 Location: Turin, Italy
